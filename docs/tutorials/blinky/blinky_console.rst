@@ -125,7 +125,7 @@ while loop and modify the while loop to process events from the OS
 default event queue:
 
 .. code-block:: cpp
-    :emphasize-lines: 14,16
+    :emphasize-lines: 15,17
 
     int
     main(int argc, char **argv)
